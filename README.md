@@ -9,9 +9,8 @@
 - FiveM/RedM/Discord.JS Developer<br>
 - React/Next Web Site Developer<br>
 
-#### Stats:
-
-![Status](https://github-readme-stats.vercel.app/api?username=Matt3-RaR&show_icons=true&theme=tokyonight)
+#### Top langs:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matt3-RaR&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Knowed languages and tools:
